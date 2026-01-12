@@ -9,4 +9,4 @@
 
 Реопзиторий Гитхаба под ивент для сервера SS220.
 
-Дизайн-Документ ивента:
+Дизайн-Документ ивента: [****](https://docs.google.com/document/d/1mAqWHocaeREXhuckyZayTzcGuOGCCKJpsgJs7SteUWU/edit?tab=t.0)
