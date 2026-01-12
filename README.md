@@ -7,6 +7,8 @@
 <img alt="forthebadge | Gluten free." src="https://raw.githubusercontent.com/SerbiaStrong-220/ss220-docs/master/res/ftb/gluten-free.svg" />
 </p>
 
+https://github.com/user-attachments/assets/7ff9702c-abf4-40b1-b079-24f314fcc4e7
+
 Реопзиторий Гитхаба под ивент для сервера SS220.
 
 Дизайн-Документ ивента:
