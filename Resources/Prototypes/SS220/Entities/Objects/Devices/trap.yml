@@ -69,3 +69,4 @@
     setTrapSound: /Audio/SS220/Items/Trap/sound_trap_set.ogg
     defuseTrapSound: /Audio/SS220/Items/Trap/sound_trap_defuse.ogg
     hitTrapSound: /Audio/SS220/Items/Trap/sound_trap_hit.ogg
+    

@@ -14,3 +14,25 @@
       chance: 1.0
   placement:
     mode: AlignTileAny
+
+- type: entity
+  name: Random Grille Spawner
+  id: GrilleSpawner50
+  parent: GrilleSpawner
+  suffix: 50%
+  components:
+    - type: RandomSpawner
+      prototypes:
+        - Grille
+      chance: 0.5
+
+- type: entity
+  name: Random Grille Spawner
+  id: GrilleSpawner15
+  parent: GrilleSpawner
+  suffix: 15%
+  components:
+    - type: RandomSpawner
+      prototypes:
+        - Grille
+      chance: 0.15
