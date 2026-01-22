@@ -278,7 +278,6 @@
     - state: green
     - state: icon
       sprite: Mobs/Animals/monkey.rsi
-    - state: ai
   - type: ConditionalSpawner
     prototypes:
     - MobMonkeySyndicateAgent
@@ -294,7 +293,6 @@
     - state: green
     - state: icon
       sprite: Mobs/Animals/monkey.rsi
-    - state: ai
   - type: ConditionalSpawner
     prototypes:
     - MobMonkeySyndicateAgentNukeops
