@@ -266,3 +266,35 @@
   - type: ConditionalSpawner
     prototypes:
     - MobWatcherPride
+
+- type: entity
+  parent: MarkerBase
+  id: MobMonkeySyndicateAgentSpawn
+  name: Monkey Spawn
+  suffix: Syndicate
+  components:
+  - type: Sprite
+    layers:
+    - state: green
+    - state: icon
+      sprite: Mobs/Animals/monkey.rsi
+    - state: ai
+  - type: ConditionalSpawner
+    prototypes:
+    - MobMonkeySyndicateAgent
+
+- type: entity
+  parent: MarkerBase
+  id: MobMonkeySyndicateAgentNukeopsSpawn
+  name: Monkey Spawn
+  suffix: Nukeops
+  components:
+  - type: Sprite
+    layers:
+    - state: green
+    - state: icon
+      sprite: Mobs/Animals/monkey.rsi
+    - state: ai
+  - type: ConditionalSpawner
+    prototypes:
+    - MobMonkeySyndicateAgentNukeops
